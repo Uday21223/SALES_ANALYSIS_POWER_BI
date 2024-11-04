@@ -37,7 +37,7 @@ This structure enables fast queries and flexible reporting while allowing users 
 
 ## 📈 Visualizations
 
-The **Home Sheet** includes:
+The **Home Page** includes:
 
 1. Yearly Sales, Quota, and Cost Comparison.
 2. Sales Channel Performance (Online vs Offline).
@@ -46,7 +46,7 @@ The **Home Sheet** includes:
 5. Yearly and Quarterly Sales Insights.
 6. Location-Based Sales Breakdown.
 
-The **Region Sheet** provides:
+The **Region Page** provides:
 
 1. A comprehensive Regional Financial Overview, breaking down sales performance by region.
 
