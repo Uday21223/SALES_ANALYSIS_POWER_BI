@@ -4,7 +4,7 @@
 
 ## 📊 Project Overview
 
-The **Sales Analysis Power BI Project** offers a comprehensive analysis of key metrics such as **Sales**, **Quota**, **Cost**, and a comparison of **Sales Channels** (Online vs Offline). It also includes insights into **Timely Deliveries**, **Top-Selling Products**, **Yearly and Quarterly Sales Trends**, and a **Regional Financial Overview**. This project is designed to help businesses make informed, data-driven decisions.
+The **Sales Analysis Power BI Project** offers a comprehensive analysis of key metrics such as **Sales**, **Quota**, **Cost**, and a comparison of **Sales Channels**. It also includes insights into **Timely Deliveries**, **Top-Selling Products**, **Yearly and Quarterly Sales Trends**, and a **Regional Financial Overview**. This project is designed to help businesses make informed, data-driven decisions.
 
 ## 🔑 Key Features
 
@@ -52,7 +52,7 @@ The **Region Page** provides:
 
 ## 📂 Data Source
 
-The entire dataset is stored in a single **Excel file**: `SalesData.xlsx`, which includes:
+The entire dataset is stored in a single **Excel file**: `Sales Analysis Dataset.xlsx`, which includes:
 
 1. Sales Orders (header and details).
 2. Customer Information.
@@ -65,7 +65,6 @@ The entire dataset is stored in a single **Excel file**: `SalesData.xlsx`, which
 
 1. **Software Used**: Power BI Desktop.
 2. **Data Modeling**: Star schema design for optimized reporting.
-3. **Data Source**: Single Excel file (`SalesData.xlsx`).
 
 ## 📬 Contact Information
 
