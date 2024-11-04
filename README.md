@@ -1,7 +1,7 @@
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://cdn.dribbble.com/users/1523313/screenshots/13671653/data-analysis.gif" width="511" height="383">
 
 
-##📊 Project Overview
+## 📊 Project Overview
 
 The Sales Analysis Power BI Project offers a comprehensive analysis of key metrics such as Sales, Quota, Cost, and a comparison of Sales Channels (Online vs Offline). It also includes insights into Timely Deliveries, Top-Selling Products, Yearly and Quarterly Sales Trends, and a Regional Financial Overview. This project is designed to help businesses make informed, data-driven decisions.
 
