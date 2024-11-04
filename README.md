@@ -65,5 +65,5 @@ The entire dataset is stored in a single Excel file: SalesData.xlsx, which inclu
 ## 📬 Contact Information
 Thank you for visiting my project! If you have any questions or need further assistance, please feel free to reach out:
 
-Name: Uday S B
+Name: Uday S B <br>
 Email: udaykanaka121@gmail.com
