@@ -66,7 +66,9 @@ The entire dataset is stored in a single **Excel file**: `Sales Analysis Dataset
 1. **Software Used**: Power BI Desktop.
 2. **Data Modeling**: Star schema design for optimized reporting.
 
+ ## NOTE :
 
+I have uploaded all the files, datasets, workbook above. Feel free to use this Project's resourses for your next Project. If you like this Project and Dashboard give it a Star or just tell me. It'll make me feel Good :-)<br>
 
 ## 📬 Contact Information
 
@@ -75,7 +77,5 @@ Thank you for visiting my project! If you have any questions or need further ass
 - **Name**: Uday S B  
 - **Email**: udaykanaka121@gmail.com
 
- ## NOTE :
 
-I have uploaded all the files, datasets, workbook above. Feel free to use this Project's resourses for your next Project. If you like this Project and Dashboard give it a Star or just tell me. It'll make me feel Good :-)<br>
 
